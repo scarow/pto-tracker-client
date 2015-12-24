@@ -1,4 +1,7 @@
 # react-boilerplate
 
+To run locally: `npm run start`
 
-This repo builds upon the extremely bare-bones set-up provided by: http://jslog.com/2014/10/02/react-with-webpack-part-1/
+To install packages: `npm install`
+
+To view in browser: `http://localhost:8080/`
