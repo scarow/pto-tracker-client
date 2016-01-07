@@ -9,7 +9,13 @@
     "dev": "webpack-dev-server --progress --colors --port 8090"
   },
   "dependencies": {
+    "babel-core": "^6.0.12",
+    "babel-loader": "^6.0.1",
+    "babel-preset-es2015": "^6.0.12",
+    "babel-preset-react": "^6.0.15",
+    "jsx-loader": "^0.13.2",
     "react": "^0.14.3",
+    "react-dom": "^0.14.3",
     "webpack": "^1.12.9"
   },
   "repository": {
@@ -23,13 +29,7 @@
   },
   "homepage": "https://github.com/scarow/react-boilerplate#readme",
   "devDependencies": {
-    "babel-core": "^6.0.12",
-    "babel-loader": "^6.0.1",
-    "babel-preset-es2015": "^6.0.12",
-    "babel-preset-react": "^6.0.15",
     "http-server": "~0.7.1",
-    "jsx-loader": "^0.13.2",
-    "react-dom": "^0.14.3",
     "webpack-dev-server": "^1.14.0"
   }
 }
